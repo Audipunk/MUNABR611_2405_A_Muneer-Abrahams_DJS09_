@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@storybook/react-vite": "^8.6.6",
     "typescript": "~5.7.2",
     "vite": "^6.1.0"
   }
