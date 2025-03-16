@@ -2,8 +2,6 @@
 // Write a function that will only accept numbers and attend to
 // all TypeScript weakness flags.
 // : number
-export * from "./App";
-
 const reviewTotalDisplay = document.querySelector("#reviews");
 
 const reviews = [
