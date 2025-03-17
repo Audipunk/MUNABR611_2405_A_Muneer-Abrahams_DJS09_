@@ -21,7 +21,7 @@ const config: StorybookConfig = {
 };
 
 export default config;
-
+export const Default: Story = {};
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <StrictMode>
   <App><App/>
