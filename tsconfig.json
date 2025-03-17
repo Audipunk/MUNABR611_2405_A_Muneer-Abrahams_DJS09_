@@ -1,5 +1,3 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
 {
   "compilerOptions": {
     "target": "ES2020",
@@ -22,5 +20,5 @@ import ReactDOM from 'react-dom/client';
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", ".storybook/App.stories.tsx", "main.ts"]
+  "include": ["src"]
 }
